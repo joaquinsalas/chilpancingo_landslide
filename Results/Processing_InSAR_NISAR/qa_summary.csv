@@ -1,0 +1,39 @@
+pair,metric,parameter,value
+pre_desc,roi_fraction_above_coherence,0.2,0.9856864020819779
+pre_desc,roi_fraction_above_coherence,0.3,0.9538061158100195
+pre_desc,roi_fraction_above_coherence,0.4,0.8935155063977446
+pre_desc,roi_fraction_above_coherence,0.5,0.787031012795489
+pre_desc,mean_coherence_roi,selected,0.6239858487472698
+pre_desc,reference_pixels,1000.0,305276
+pre_desc,ramp_reference_mad_sigma_rad,1000.0,0.4701763426815719
+pre_desc,geometry_height_layer_span_max,"(-1000.0, 9000.0)",0.004884254932403564
+pre_asc,roi_fraction_above_coherence,0.2,0.9956625460854478
+pre_asc,roi_fraction_above_coherence,0.3,0.9867707655606159
+pre_asc,roi_fraction_above_coherence,0.4,0.9694209499024072
+pre_asc,roi_fraction_above_coherence,0.5,0.9360225547603557
+pre_asc,mean_coherence_roi,selected,0.7831069794973281
+pre_asc,reference_pixels,1000.0,309396
+pre_asc,ramp_reference_mad_sigma_rad,1000.0,0.3533599010721515
+pre_asc,geometry_height_layer_span_max,"(-1000.0, 9000.0)",0.004903546410799027
+event_desc,roi_fraction_above_coherence,0.2,0.991108219475168
+event_desc,roi_fraction_above_coherence,0.3,0.9720234222511386
+event_desc,roi_fraction_above_coherence,0.4,0.9349381912817176
+event_desc,roi_fraction_above_coherence,0.5,0.8674907829104316
+event_desc,mean_coherence_roi,selected,0.6942987234003049
+event_desc,reference_pixels,1000.0,308268
+event_desc,ramp_reference_mad_sigma_rad,1000.0,0.4116421085015496
+event_desc,geometry_height_layer_span_max,"(-1000.0, 9000.0)",0.004884542119503022
+event_asc,roi_fraction_above_coherence,0.2,0.9930600737367166
+event_asc,roi_fraction_above_coherence,0.3,0.9824333116460637
+event_asc,roi_fraction_above_coherence,0.4,0.9624810236391238
+event_asc,roi_fraction_above_coherence,0.5,0.9249620472782477
+event_asc,mean_coherence_roi,selected,0.7576424111399054
+event_asc,reference_pixels,1000.0,309357
+event_asc,ramp_reference_mad_sigma_rad,1000.0,0.29972403343791215
+event_asc,geometry_height_layer_span_max,"(-1000.0, 9000.0)",0.004903295797109604
+descending,phase_closure_median_abs_rad,0.3,0.1130344420671463
+ascending,phase_closure_median_abs_rad,0.3,0.06169384345412254
+pre_desc,ramp_sensitivity_median_std_cm,"(500.0, 1000.0, 1500.0)",0.001205028847933374
+pre_asc,ramp_sensitivity_median_std_cm,"(500.0, 1000.0, 1500.0)",0.017504011975190015
+event_desc,ramp_sensitivity_median_std_cm,"(500.0, 1000.0, 1500.0)",0.01302190527936102
+event_asc,ramp_sensitivity_median_std_cm,"(500.0, 1000.0, 1500.0)",0.0076159954250569345
