@@ -12,13 +12,9 @@ The RTK-GNSS campaign (2022–2023) and the NISAR observations (2025–2026) are
 
 ## Repository structure
 
-- `notebooks/`: portable working notebooks; untouched originals are in `notebooks/archived/`.
-- `src/`: reusable configuration, input-validation, and geometry utilities.
-- `scripts/`: data and notebook checks.
+- `Code/`: portable working notebooks; untouched originals are in `notebooks/archived/`.
 - `Data/`: data documentation, manifest, RTK tables, ROI files, and derived products. Official NISAR HDF5 files are not distributed.
 - `Results/`: figures used in the manuscript draft, tables, metrics, and provenance records.
-- `docs/`: manuscript draft, audit notes, and traceability records.
-- `tests/`: lightweight tests that do not require full NISAR products.
 
 ## Data acquisition
 
